@@ -8,7 +8,8 @@ ALLOWED_DOMAINS = [
     "yandex.ru",
     "mail.ru",
     "mirea.ru",
-    "edu.mirea.ru.ru",
+    "edu.mirea.ru",
+    "bk.ru",
 ]
 
 COLUMN_INDEX = 6
