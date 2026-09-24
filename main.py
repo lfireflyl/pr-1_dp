@@ -11,7 +11,7 @@ ALLOWED_DOMAINS = [
     "edu.mirea.ru.ru",
 ]
 
-COLUMN_INDEX = 6
+COLUMN_INDEX = 8
 
 
 def is_allowed_email(email):
