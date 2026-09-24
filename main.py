@@ -50,4 +50,4 @@ with open(OUTPUT_FILE, "w", encoding="utf-8-sig", newline="") as outfile:
     writer = csv.writer(outfile)
     writer.writerows(rows)
 
-print(f"Готово. Результат сохранён в {OUTPUT_FILE}")
+print(f"Готово. Результат успешно сохранён в {OUTPUT_FILE}")
